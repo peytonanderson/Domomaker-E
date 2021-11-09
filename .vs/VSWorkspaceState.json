@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\hosted",
+    "\\server",
+    "\\server\\controllers",
+    "\\server\\middleware",
+    "\\server\\models",
+    "\\views"
+  ],
+  "PreviewInSolutionExplorer": false
+}
