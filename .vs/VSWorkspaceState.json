@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\client",
-    "\\hosted",
+    "\\client\\app",
+    "\\client\\helper",
+    "\\client\\login",
     "\\server",
-    "\\server\\controllers",
     "\\server\\middleware",
     "\\server\\models",
-    "\\views"
+    "\\views",
+    "\\views\\layouts"
   ],
+  "SelectedNode": "\\client\\login\\client.js",
   "PreviewInSolutionExplorer": false
 }
